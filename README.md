@@ -6,7 +6,7 @@
 Code some might find interesting:
 
 - [Script to automatically log in and delete posts in a php forum](https://github.com/liluuen/bym_script)
-- [SQL Project (incl. vizualisation in matplotlib, math/statistics, answering business questions)](https://github.com/liluuen/SQL)
+- [SQL Project (incl. vizualisations in matplotlib, math/statistics, answering business questions)](https://github.com/liluuen/SQL)
 
 <!---
 liluuen/liluuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
