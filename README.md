@@ -9,10 +9,6 @@ Code some might find interesting:
 - [SQL Project (incl. vizualisation in matplotlib, math, business questions) (dataquest-course)]()
 - [Vizualisation of Temp/pressure over time (made for my BA)]()
 
-Work in progress:
-
-- [Analysis World Happiness]
-
 <!---
 liluuen/liluuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
