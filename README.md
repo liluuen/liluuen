@@ -5,7 +5,7 @@
 
 Code some might find interesting:
 
-- [Script to automatically log in and delete posts in a php forum](https://github.com/liluuen/hello-world)
+- [Script to automatically log in and delete posts in a php forum](https://github.com/liluuen/bym_script)
 - [SQL project (incl. vizualisation in matplotlib, math, business questions) (dataquest-course)]()
 
 <!---
