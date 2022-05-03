@@ -6,7 +6,7 @@
 Code some might find interesting:
 
 - [Script to automatically log in and delete posts in a vBulletin forum (Python)](https://github.com/liluuen/bym_script)
-- [SQL Project (incl. visualisations in matplotlib, math/statistics, answering business questions)](https://github.com/liluuen/SQL)
+- [SQL Project (incl. data analysis, visualisations in matplotlib, math/statistics, answering business questions)](https://github.com/liluuen/SQL)
 
 <!---
 liluuen/liluuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
