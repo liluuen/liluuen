@@ -5,7 +5,7 @@
 
 Code some might find interesting:
 
-- [Script to automatically log in and delete posts in a vBulletin forum (topics: python, automation, web crawling)](https://github.com/liluuen/bym_script)
+- [Script to automatically log in and delete posts in a vBulletin forum (topics: python, REST API, automation, web crawling)](https://github.com/liluuen/bym_script)
 - [SQL Project (topics: data cleaning/analysis, visualisations in matplotlib, math/statistics, answering business questions)](https://github.com/liluuen/SQL)
 
 <!---
